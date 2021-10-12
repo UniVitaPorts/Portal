@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: a667267a412d51844b55466e9c8a16e8
+timeCreated: 1633512279
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: VBSP_Object.model_0
+    100004: VBSP_Object.model_1
+    100006: VBSP_Object.model_12
+    100008: VBSP_Object.model_13
+    100010: VBSP_Object.model_19
+    100012: VBSP_Object.model_2
+    100014: VBSP_Object.model_22
+    100016: VBSP_Object.model_23
+    100018: VBSP_Object.model_24
+    100020: VBSP_Object.model_26
+    100022: VBSP_Object.model_27
+    100024: VBSP_Object.model_29
+    100026: VBSP_Object.model_3
+    100028: VBSP_Object.model_32
+    100030: VBSP_Object.model_33
+    100032: VBSP_Object.model_35
+    100034: VBSP_Object.model_36
+    100036: VBSP_Object.model_38
+    100038: VBSP_Object.model_48
+    100040: VBSP_Object.model_49
+    400000: //RootNode
+    400002: VBSP_Object.model_0
+    400004: VBSP_Object.model_1
+    400006: VBSP_Object.model_12
+    400008: VBSP_Object.model_13
+    400010: VBSP_Object.model_19
+    400012: VBSP_Object.model_2
+    400014: VBSP_Object.model_22
+    400016: VBSP_Object.model_23
+    400018: VBSP_Object.model_24
+    400020: VBSP_Object.model_26
+    400022: VBSP_Object.model_27
+    400024: VBSP_Object.model_29
+    400026: VBSP_Object.model_3
+    400028: VBSP_Object.model_32
+    400030: VBSP_Object.model_33
+    400032: VBSP_Object.model_35
+    400034: VBSP_Object.model_36
+    400036: VBSP_Object.model_38
+    400038: VBSP_Object.model_48
+    400040: VBSP_Object.model_49
+    2100000: VBSP_Object.model_0Mat
+    2100002: VBSP_Object.model_1Mat
+    2100004: VBSP_Object.model_12Mat
+    2100006: VBSP_Object.model_13Mat
+    2100008: VBSP_Object.model_19Mat
+    2100010: VBSP_Object.model_2Mat
+    2100012: VBSP_Object.model_22Mat
+    2100014: VBSP_Object.model_23Mat
+    2100016: VBSP_Object.model_24Mat
+    2100018: VBSP_Object.model_26Mat
+    2100020: VBSP_Object.model_27Mat
+    2100022: VBSP_Object.model_29Mat
+    2100024: VBSP_Object.model_3Mat
+    2100026: VBSP_Object.model_32Mat
+    2100028: VBSP_Object.model_33Mat
+    2100030: VBSP_Object.model_35Mat
+    2100032: VBSP_Object.model_36Mat
+    2100034: VBSP_Object.model_38Mat
+    2100036: VBSP_Object.model_48Mat
+    2100038: VBSP_Object.model_49Mat
+    2300000: VBSP_Object.model_0
+    2300002: VBSP_Object.model_1
+    2300004: VBSP_Object.model_12
+    2300006: VBSP_Object.model_13
+    2300008: VBSP_Object.model_19
+    2300010: VBSP_Object.model_2
+    2300012: VBSP_Object.model_22
+    2300014: VBSP_Object.model_23
+    2300016: VBSP_Object.model_24
+    2300018: VBSP_Object.model_26
+    2300020: VBSP_Object.model_27
+    2300022: VBSP_Object.model_29
+    2300024: VBSP_Object.model_3
+    2300026: VBSP_Object.model_32
+    2300028: VBSP_Object.model_33
+    2300030: VBSP_Object.model_35
+    2300032: VBSP_Object.model_36
+    2300034: VBSP_Object.model_38
+    2300036: VBSP_Object.model_48
+    2300038: VBSP_Object.model_49
+    3300000: VBSP_Object.model_0
+    3300002: VBSP_Object.model_1
+    3300004: VBSP_Object.model_12
+    3300006: VBSP_Object.model_13
+    3300008: VBSP_Object.model_19
+    3300010: VBSP_Object.model_2
+    3300012: VBSP_Object.model_22
+    3300014: VBSP_Object.model_23
+    3300016: VBSP_Object.model_24
+    3300018: VBSP_Object.model_26
+    3300020: VBSP_Object.model_27
+    3300022: VBSP_Object.model_29
+    3300024: VBSP_Object.model_3
+    3300026: VBSP_Object.model_32
+    3300028: VBSP_Object.model_33
+    3300030: VBSP_Object.model_35
+    3300032: VBSP_Object.model_36
+    3300034: VBSP_Object.model_38
+    3300036: VBSP_Object.model_48
+    3300038: VBSP_Object.model_49
+    4300000: VBSP_Object.model_0
+    4300002: VBSP_Object.model_1
+    4300004: VBSP_Object.model_12
+    4300006: VBSP_Object.model_13
+    4300008: VBSP_Object.model_19
+    4300010: VBSP_Object.model_2
+    4300012: VBSP_Object.model_22
+    4300014: VBSP_Object.model_23
+    4300016: VBSP_Object.model_24
+    4300018: VBSP_Object.model_26
+    4300020: VBSP_Object.model_27
+    4300022: VBSP_Object.model_29
+    4300024: VBSP_Object.model_3
+    4300026: VBSP_Object.model_32
+    4300028: VBSP_Object.model_33
+    4300030: VBSP_Object.model_35
+    4300032: VBSP_Object.model_36
+    4300034: VBSP_Object.model_38
+    4300036: VBSP_Object.model_48
+    4300038: VBSP_Object.model_49
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

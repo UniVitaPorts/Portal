@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd141a022f7ff6f45b02da34104733c5, type: 3}
+  m_Name: LiftGammaGain
+  m_EditorClassIdentifier:
+  active: 1
+  m_AdvancedMode: 0
+  lift:
+    m_OverrideState: 1
+    m_Value: {x: 0.92732537, y: 0.9735931, z: 1, w: 0}
+  gamma:
+    m_OverrideState: 1
+    m_Value: {x: 0.995065, y: 1, z: 0.9814522, w: 0}
+  gain:
+    m_OverrideState: 1
+    m_Value: {x: 0.9977509, y: 0.99550164, z: 1, w: 0}
