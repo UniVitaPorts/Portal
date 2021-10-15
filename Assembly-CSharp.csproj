@@ -44,7 +44,7 @@
     <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="UnityEngine">
-      <HintPath>D:\Apps\UnityEditor\2017.4.2f2\Editor\Data\Managed\UnityEngine.dll</HintPath>
+      <HintPath>D:/Apps/UnityEditor/2017.4.2f2/Editor/Data/Managed\UnityEngine.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor">
       <HintPath>D:/Apps/UnityEditor/2017.4.2f2/Editor/Data/Managed/UnityEditor.dll</HintPath>
@@ -201,6 +201,8 @@
      <Compile Include="Assets\Scripts\Pickup.cs" />
      <Compile Include="Assets\Scripts\SC_FPSController.cs" />
      <Compile Include="Assets\Scripts\SceneLoader.cs" />
+     <Compile Include="Assets\Scripts\SceneLoader_Alt.cs" />
+     <Compile Include="Assets\Scripts\SceneLoaderV2.cs" />
      <Compile Include="Assets\Scripts\StepThroughPortal.cs" />
      <Compile Include="Assets\Scripts\ThrowPortal.cs" />
      <Compile Include="Assets\Scripts\Unity5_Scripts\Bullet.cs" />
@@ -242,6 +244,7 @@
      <Compile Include="Assets\Scripts\xboxrightstick.cs" />
      <None Include="Assets\Project Portal\Assets\Resources\shaders\tmp_bitmap-custom-atlas.shader" />
      <None Include="Assets\Project Portal\Assets\Shader\Shader GraphsDeathField.shader" />
+     <None Include="Assets\Shaders\Vita.shader" />
      <None Include="Assets\Project Portal\Assets\Shader\Universal Render PipelineLit.shader" />
      <None Include="Assets\Project Portal\Assets\Resources\shaders\tmp_sdf-surface.shader" />
      <None Include="Assets\Project Portal\Assets\Resources\shaders\tmp_sdf.shader" />
