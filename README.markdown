@@ -15,7 +15,7 @@ Porting Portal on PSVita
 
 
 
-- [Lurony](https://github.com/UnityTutorialsHD/Unity-Tutorial-Assets)- Cool Scripts with great explanation
+- [Lurony](https://github.com/UnityTutorialsHD/Unity-Tutorial-Assets) - Cool Scripts with great explanation
 - [Donion Tech](https://www.youtube.com/watch?v=fTtLY0JdVqk) - Awesome Physics Button Script
 
 ## Installation
