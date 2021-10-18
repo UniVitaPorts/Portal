@@ -23,3 +23,5 @@ Porting Portal on PSVita
 Download VPK from latest release and press X while having this VPK selected in VitaShell.
 
 [Full Tutorial, just use VitaShell (molecularShell is pretty old)](https://www.cfwaifu.com/vitashell/)
+
+If you speak on russian, I have special discord - <iframe src="https://discord.com/widget?id=860909875043237899&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
