@@ -24,4 +24,4 @@ Download VPK from latest release and press X while having this VPK selected in V
 
 [Full Tutorial, just use VitaShell (molecularShell is pretty old)](https://www.cfwaifu.com/vitashell/)
 
-If you speak on russian, I have special discord -  ![Discord Shield](https://discordapp.com/api/guilds/860909875043237899/widget.png?style=shield)
+If you speak on russian, I have special discord -  ![Discord Shield](https://discordapp.com/api/guilds/860909875043237899/widget.png?style=shield)!
