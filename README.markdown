@@ -1,4 +1,4 @@
-# Portal: Still Alive Vita
+# Portal: Still Vita
 ## _I guess i just made a great name :)_
 
 
