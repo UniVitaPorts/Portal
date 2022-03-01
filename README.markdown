@@ -1,6 +1,7 @@
-# Portal: Still Vita
-## _I guess i just made a great name :)_
+# Portal Still Alive | Rewrite
+## _Yes, I moved._
 
+[![Unity](https://i.ibb.co/J27ccwJ/d-Txp-Pi9l-Df-thumb-1.png)](https://unity.com/)
 
 Porting Portal on PSVita 
 
@@ -23,6 +24,3 @@ Porting Portal on PSVita
 Download VPK from latest release and press X while having this VPK selected in VitaShell.
 
 [Full Tutorial, just use VitaShell (molecularShell is pretty old)](https://www.cfwaifu.com/vitashell/)
-
-If you speak on russian, I have special discord -  ![Discord Shield](https://discordapp.com/api/guilds/860909875043237899/widget.png?style=shield)!
-https://discord.gg/HPfdRzJyaY
